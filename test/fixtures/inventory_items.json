@@ -1,0 +1,16 @@
+{
+  "inventory_items": [
+    {
+      "id": 3206163459739,
+      "sku": "TEST-1",
+      "tracked": false,
+      "measurement": null
+    },
+    {
+      "id": 3206163459740,
+      "sku": "TEST-2",
+      "tracked": false,
+      "measurement": null
+    }
+  ]
+}
