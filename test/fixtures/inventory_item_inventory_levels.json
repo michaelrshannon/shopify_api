@@ -1,0 +1,19 @@
+{
+  "inventory_levels": [
+    {
+      "inventory_item_id": 1,
+      "location_id": 5,
+      "available": 5
+    },
+    {
+      "inventory_item_id": 2,
+      "location_id": 5,
+      "available": 2
+    },
+    {
+      "inventory_item_id": 1,
+      "location_id": 6,
+      "available": 7
+    }
+  ]
+}
